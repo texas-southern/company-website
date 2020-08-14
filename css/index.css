@@ -1,0 +1,76 @@
+
+
+body {
+  font-family: 'Lato';
+}
+header {
+  margin-top: 40px;
+}
+
+#navBar{
+  font-family: 'Catamaran';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Catamaran';
+  font-weight: 800 !important;
+}
+
+
+
+.bg-black {
+  background-color: #000 !important;
+}
+
+
+
+.navbar-custom {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar-custom .navbar-brand {
+ 
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  font-weight: 700;
+}
+
+.navbar-custom .navbar-nav .nav-item {
+  
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+}
+
+
+
+
+.links {
+  text-decoration: none;
+  color: black;
+}
+
+.links:hover{
+  color: #007bff;
+}
+.navbar-brand2 {
+  font-family: 'Catamaran';
+  text-decoration: none;
+  color: white;
+}
+
+.navbar-brand2:hover {
+  text-decoration: none;
+  color:#007bff;
+}
+
+#t1:hover, #t2:hover, #t3:hover, #t4:hover, #t5:hover{
+  color:#007bff;
+}
